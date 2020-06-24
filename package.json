@@ -1,0 +1,14 @@
+{
+  "name": "students-project-pagination",
+  "version": "1.0.0",
+  "description": "List pagination and filtering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tri Nhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
